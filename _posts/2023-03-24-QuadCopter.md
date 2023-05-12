@@ -10,32 +10,31 @@ tags: [jekyll, ai]
 
 ---
 ## Content
-* **專題題目** (Project Name & Objectives)
+* **自動化水壺** (Project Name & Objectives)
 * **應用與功能說明** (Key Features)
 * **設計考量與所需相關技術** (Design considerations)
 * **系統方塊圖** (System Block Diagrams)
 * **概念驗證** (Proof of Concept)
-* **成果展示** (Demostation)
 
 ---
-## 太陽能板巡檢無人機
-類別: 四軸無人機 <br>
+## 自動化水壺
+類別: AI水壺 <br>
 
-目的: To-Be-Discussed <br>
+目的: 喝水更方便 <br>
 
 ---
 ### 應用功能說明
-1. AI視覺辨識
-2. 自動導航
+1. AI智能提醒
+2. 感應辨識功能
 
 ---
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 移動方式: 四軸飛行
-2. 供電方式: 鋰電池
+1. 開啟方式:感應手部溫度 
+2. 供電方式: 太陽能
 
 **所需相關技術：**<br>
-1. AI視覺辨識微控制器模組 (AMB82-mini)
+1. 雷達感應模塊 (AMB82-mini)
 
 ---
 ### 系統方塊圖
